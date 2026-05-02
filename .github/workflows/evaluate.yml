@@ -39,7 +39,7 @@ jobs:
           token: ${{ github.token }}
           path: private_data
           sparse-checkout: |
-            test_labels_only.csv
+            emoCK.csv
 
       # 4. Setup Python
       - name: Setup Python
